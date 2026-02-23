@@ -1,1 +1,1 @@
-deneme mesaji
+bu bir denemedir
